@@ -6,6 +6,24 @@
 - 🥅 2022 Goals: Learn more about web3, blockchain, solidity
 - ⚡ Fun fact: **Web3.0** will take **Web2.0** as **Web2.0** took **Web1.0** BUT harder
 
+### Connect with me:
+[![](./img/linkedin.png)]([linkedin])
+[![](./img/twitter.png)]([twitter])
+
+### Tools & Frameworks
+
+![](./img/vscode.png)
+![](./img/intelij.png)
+![](./img/colab.png)
+![](./img/terminal.png)
+![](./img/tenserflow.png)
+![](./img/nodejs.png)
+![](./img/postgres.png)
+![](./img/react.png)
+![](./img/ror.png)
+![](./img/spring.png)
+![](./img/mongodb.png)
+
 ---
 
 [twitter]: https://twitter.com/ahmadehelaly
