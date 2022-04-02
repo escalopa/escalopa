@@ -1,5 +1,7 @@
 # Hi there 👋 I am Ahmad - aka [Escalopa][linkedin]
 
+<img src="https://komarev.com/ghpvc/?username=lordvidex&label=Views&color=blue&style=plastic" />
+
 - 🌱 I’m currently learning Node.JS, React, Spring, AI (Tensorflow)
 - 👯 I’m looking to collaborate on freelancing & startup projects
 - 🤔 I’m looking for a mentor to guide me through me journey 
@@ -19,11 +21,13 @@
 ![](./img/intelliJ.png)
 ![](./img/terminal.png)
 ![](./img/colab.png)
+![](./img/insomnia.png)
 ![](./img/tensorflow.png)
 ![](./img/nodejs.png)
 ![](./img/react.png)
 ![](./img/ror.png)
 ![](./img/spring.png)
+![](./img/graphql.png)
 ![](./img/postgres.png)
 ![](./img/mongodb.png)
 
