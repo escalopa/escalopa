@@ -10,19 +10,18 @@
 
 [![](./img/twitter.png)]([twitter])
 [![](./img/linkedin.png)]([linkedin])
+[![](./img/gmail.png)]([gmail])
 
 ### Tools & Frameworks :
 
 ![](./img/vscode.png)
 ![](./img/intelliJ.png)
 ![](./img/terminal.png)
-<br>
 ![](./img/tensorflow.png)
 ![](./img/nodejs.png)
 ![](./img/react.png)
 ![](./img/ror.png)
 ![](./img/spring.png)
-<br>
 ![](./img/postgres.png)
 ![](./img/mongodb.png)
 
@@ -31,3 +30,4 @@
 [twitter]: https://twitter.com/ahmadehelaly
 [youtube]: https://www.youtube.com/channel/UCqRkKe3h_PVEQuvAmBwL5Iw
 [linkedin]: https://www.linkedin.com/in/ahmad-helaly-53b5b9236/
+[gmail]: mailto:ahmad.helaly.dev@gmail.com?body=Hello%20Ahmad
