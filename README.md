@@ -11,9 +11,9 @@
 
 ### Connect with me :
 
-[![](./img/twitter.png)]([twitter])
-[![](./img/linkedin.png)]([linkedin])
-[![](./img/gmail.png)]([gmail])
+[![](./img/twitter.png)](https://twitter.com/ahmadehelaly)
+[![](./img/linkedin.png)](https://www.linkedin.com/in/ahmad-helaly-53b5b9236/)
+[![](./img/gmail.png)](mailto:ahmad.helaly.dev@gmail.com?body=Hello%20Ahmad)
 
 ### Tools & Frameworks :
 
@@ -43,6 +43,5 @@
 ---
 
 [twitter]: https://twitter.com/ahmadehelaly
-[youtube]: https://www.youtube.com/channel/UCqRkKe3h_PVEQuvAmBwL5Iw
 [linkedin]: https://www.linkedin.com/in/ahmad-helaly-53b5b9236/
 [gmail]: mailto:ahmad.helaly.dev@gmail.com?body=Hello%20Ahmad
