@@ -2,26 +2,28 @@
 
 - 🌱 I’m currently learning Node.JS, React, Spring, AI
 - 👯 I’m looking to collaborate on freelancing & startup projects
-- 🤔 I’m looking for mentor to guide me through me journey 
+- 🤔 I’m looking for a mentor to guide me through me journey 
 - 🥅 2022 Goals: Learn more about web3, blockchain, solidity
 - ⚡ Fun fact: **Web3.0** will take **Web2.0** as **Web2.0** took **Web1.0** BUT harder
 
-### Connect with me:
-[![](./img/linkedin.png)]([linkedin])
-[![](./img/twitter.png)]([twitter])
+### Connect with me :
 
-### Tools & Frameworks
+[![](./img/twitter.png)]([twitter])
+[![](./img/linkedin.png)]([linkedin])
+
+### Tools & Frameworks :
 
 ![](./img/vscode.png)
-![](./img/intelij.png)
-![](./img/colab.png)
+![](./img/intelliJ.png)
 ![](./img/terminal.png)
-![](./img/tenserflow.png)
+<br>
+![](./img/tensorflow.png)
 ![](./img/nodejs.png)
-![](./img/postgres.png)
 ![](./img/react.png)
 ![](./img/ror.png)
 ![](./img/spring.png)
+<br>
+![](./img/postgres.png)
 ![](./img/mongodb.png)
 
 ---
