@@ -40,7 +40,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escalopa&hide=java&langs_count=6&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+<details><summary>Wakatinme Language Chart ⌨️⌨️</summary>  
+  <img src="https://wakatime.com/share/@escalopa/20569e0c-18db-4634-9a7e-d588d95690cf.svg" alt="languages"/>
+</details>
+
+<details><summary>Wakatinme Editor Chart 💻💻</summary>
+  <img src="https://wakatime.com/share/@escalopa/5700d73c-ca38-48b2-9bbf-03316112002a.svg" alt="editors"/>
+</details>
+  
+
 ---
+
 
 [twitter]: https://twitter.com/ahmadehelaly
 [linkedin]: https://www.linkedin.com/in/ahmad-helaly-53b5b9236/
