@@ -40,6 +40,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escalopa&hide=java&langs_count=6&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://app.daily.dev/Escalopa"><img src="https://api.daily.dev/devcards/e3884bd526504521bcb020189bba98c0.png?r=5rn" width="400" alt="Ahmad Helaly's Dev Card"/></a>
+
 <details><summary>Wakatinme Language Chart ⌨️⌨️</summary>  
   <img src="https://wakatime.com/share/@escalopa/20569e0c-18db-4634-9a7e-d588d95690cf.svg" alt="languages"/>
 </details>
