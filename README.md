@@ -38,7 +38,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=escalopa&layout=compact&theme=react&custom_title=Wakatime%20Weekly%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escalopa&hide=java&langs_count=6&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escalopa&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://app.daily.dev/Escalopa"><img src="https://api.daily.dev/devcards/e3884bd526504521bcb020189bba98c0.png?r=5rn" width="400" alt="Ahmad Helaly's Dev Card"/></a>
