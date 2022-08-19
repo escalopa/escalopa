@@ -14,7 +14,8 @@
 
 ### Connect with me :
 
-[![](./img/twitter.png)](https://twitter.com/ahmadehelaly)
+[![](./img/telegram.png)](https://t.me/aehelaly) 
+[![](./img/twitter.png)](https://twitter.com/escalopaPapi)
 [![](./img/linkedin.png)](https://www.linkedin.com/in/ahmad-helaly-53b5b9236/)
 [![](./img/gmail.png)](mailto:ahmad.helaly.dev@gmail.com?body=Hello%20Ahmad)
 
