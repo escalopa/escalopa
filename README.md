@@ -6,9 +6,11 @@
 - 👯 I’m looking to collaborate on freelancing & startup projects
 - 🤔 I’m looking for a mentor to guide me through me journey 
 - 🥅 2022 Goals: Master solidity & go gRPC development 
-- 📚 Hobbies: Read books about (Religion, Finance, Self-development), Go to 🏋🏻 
+- 📚 Hobbies: Read books about (Religion, Finance, Self-development, business), also go to 🏋🏻 
 - 🗣 Talk with me about: web3🌐, Cryptocurrency🪙, Entrepreneurship🚀
-- ⚡ Fun fact: **Web3.0** will take **Web2.0** as **Web2.0** took **Web1.0** BUT harder
+- ⏱️ Free time hobby: I am also an author, write [articles](https://medium.com/@ahmadhelaly) about things I learn 
+- ⚡ Fun fact: **Web3.0** will take **Web2.0** as **Web2.0** took **Web1.0** but **HARDER**
+
 
 ### Connect with me :
 
@@ -27,11 +29,9 @@
 ![](./img/hardhat.png)
 ![](./img/nodejs.png)
 ![](./img/react.png)
-![](./img/ror.png)
 ![](./img/spring.png)
 ![](./img/graphql.png)
 ![](./img/postgres.png)
-![](./img/mongodb.png)
 
 <br>
 <br>
