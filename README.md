@@ -11,47 +11,19 @@
 - ⏱️ Free time hobby: I am also an author, write articles about things I learn 
 - ⚡ Fun fact: **Web3.0** will take **Web2.0** as **Web2.0** took **Web1.0** but **HARDER**
 
+### 
 
-<a><button name="button" style = "
-  color: white;
-  font-family: 'Monospace';
-  border-radius: 20px;
-  width: 200px;
-  padding: 10px;
-  font-size: 15px;
-  font-weight: bold;
-  border: none;
-  background: #BE254A;
-  margin-right: 20px;
-" onclick="https://www.youtube.com/channel/UCTRWpJE0OTZDasrGDgK3Klw">Youtube Channel</button></a>
-<a><button name="button" style = "
-  color: white;
-  font-family: 'Monospace';
-  border-radius: 20px;
-  width: 200px;
-  padding: 10px;
-  font-size: 15px;
-  font-weight: bold;
-  border: none;
-  background: #2590BE;
-" onclick="https://www.escalopa.live">Blog</button></a>
+[![](./img/youtube.svg)](https://www.youtube.com/channel/UCTRWpJE0OTZDasrGDgK3Klw) --- 
+[![](./img/pencil.svg)](https://www.escalopa.live) 
 
-### Connect with me :
+### Connect with me:
 
 [![](./img/telegram.png)](https://t.me/aehelaly) 
 [![](./img/twitter.png)](https://twitter.com/escalopaPapi)
 [![](./img/linkedin.png)](https://www.linkedin.com/in/ahmad-helaly-53b5b9236/)
 [![](./img/gmail.png)](mailto:ahmad.helaly.dev@gmail.com?body=Hello%20Ahmad)
 
-### Editors & Tools:
-
-![](./img/vscode.svg)
-![](./img/remix.png)
-![](./img/terminal.png)
-![](./img/insomnia.png)
-![](./img/postman.svg)
-
-### Frameworks & More
+### Editors & Frameworks & Tools  & More
 
 ![](./img/golang.svg)
 ![](./img/postgres.png)
@@ -61,6 +33,11 @@
 ![](./img/solidity.png)
 ![](./img/truffle.png)
 ![](./img/hardhat.png)
+![](./img/vscode.svg)
+![](./img/remix.png)
+![](./img/terminal.png)
+![](./img/insomnia.png)
+![](./img/postman.svg)
 
 <br>
 <br>
