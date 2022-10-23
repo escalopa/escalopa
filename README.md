@@ -11,9 +11,11 @@
 - ⏱️ Free time hobby: I am also an author, write articles about things I learn 
 - ⚡ Fun fact: **Web3.0** will take **Web2.0** as **Web2.0** took **Web1.0** but **HARDER**
 
-### 
+---  
 
-[![](./img/youtube.svg)](https://www.youtube.com/channel/UCTRWpJE0OTZDasrGDgK3Klw) --- 
+### Youtube channel & Personal BLog
+
+[![](./img/youtube.svg)](https://www.youtube.com/channel/UCTRWpJE0OTZDasrGDgK3Klw) 
 [![](./img/pencil.svg)](https://www.escalopa.live) 
 
 ### Connect with me:
@@ -39,8 +41,7 @@
 ![](./img/insomnia.png)
 ![](./img/postman.svg)
 
-<br>
-<br>
+---  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escalopa&theme=react&show_icons=true&count_private=true&custom_title=Github%20Status)](https://github.com/anuraghazra/github-readme-stats)
 
