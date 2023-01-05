@@ -1,14 +1,13 @@
 # Hi there 👋 I am Ahmad - aka [Escalopa][linkedin]
 
-<img src="https://komarev.com/ghpvc/?username=lordvidex&label=Views&color=blue&style=plastic" />
+<img src="https://komarev.com/ghpvc/?username=escalopa&label=Views&color=blue&style=plastic" />
 
 - 🌱 I’m currently learning `GO`, `gRPC`, `Micro Services`
 - 👯 I’m looking to collaborate on freelancing & startup projects that interests me
 - 🤔 I’m looking for a partner on projects (A frontend dev)
 - 📚 Hobbies: Do read books about (Religion, Finance, Self-development, business), also go to 🏋🏻 
-- 🗣 Talk with me about: backend-dev💻 ,web3🌐, Cryptocurrency🪙, Entrepreneurship🚀
-- ⏱️ Free time hobby: I am also an author, write articles about things I learn 
-- ⚡ Fun fact: **Web3.0** will take **Web2.0** as **Web2.0** took **Web1.0** but **HARDER**
+- 🗣 Talk with me about: backend-dev💻 ,web3🌐, Cryptocurrency🪙, Entrepreneurship🚀, And how you lost your money on trading 😁
+- ⏱️ Free time hobby: I am also an author, write articles about things I learn, or build some cool simple apps
 
 ---  
 
@@ -36,17 +35,12 @@
 ![](./img/postman.svg)
 ![](./img/telegram-app.svg)
 
-### Tools 
-
 ![](./img/vscode.svg)
 ![](./img/goland.svg)
 ![](./img/terminal.svg)
 ![](./img/docker.svg)
 ![](./img/grafana.svg)
 ![](./img/prometheus.svg)
-
-
-### Have worked with before but not currently using
 
 ![](./img/solidity.svg)
 ![](./img/hardhat.svg)
