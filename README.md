@@ -2,10 +2,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=lordvidex&label=Views&color=blue&style=plastic" />
 
-- 🌱 I’m currently learning `GO`, `gRPC`, And on free time maybe `Solidity`
+- 🌱 I’m currently learning `GO`, `gRPC`, `Micro Services`
 - 👯 I’m looking to collaborate on freelancing & startup projects that interests me
-- 🤔 I’m looking for a partner on projects
-- 🥅 2022 Goals: Build my own youtube channel and fill it with videosMaster and write articles
+- 🤔 I’m looking for a partner on projects (A frontend dev)
 - 📚 Hobbies: Do read books about (Religion, Finance, Self-development, business), also go to 🏋🏻 
 - 🗣 Talk with me about: backend-dev💻 ,web3🌐, Cryptocurrency🪙, Entrepreneurship🚀
 - ⏱️ Free time hobby: I am also an author, write articles about things I learn 
@@ -13,34 +12,53 @@
 
 ---  
 
-### Youtube channel & Personal BLog
+## [Youtube channel](https://youtube.com/@escalopa) & [Personal BLog](https://escalopa.live)
 
-[![](./img/youtube.svg)](https://www.youtube.com/channel/UCTRWpJE0OTZDasrGDgK3Klw) 
-[![](./img/pencil.svg)](https://www.escalopa.live) 
+### Me on other social medias:
 
-### Connect with me:
+[![](./img/telegram.svg)](https://t.me/aehelaly) 
+[![](./img/twitter.svg)](https://twitter.com/escalopaPapi)
+[![](./img/linkedin.svg)](https://www.linkedin.com/in/ahmad-helaly-53b5b9236/)
+[![](./img/gmail.svg)](mailto:ahmad.helaly.dev@gmail.com?body=Hello%20Ahmad)
+[![](./img/stackoverflow.svg)](https://stackoverflow.com/users/14295533/escapola)
 
-[![](./img/telegram.png)](https://t.me/aehelaly) 
-[![](./img/twitter.png)](https://twitter.com/escalopaPapi)
-[![](./img/linkedin.png)](https://www.linkedin.com/in/ahmad-helaly-53b5b9236/)
-[![](./img/gmail.png)](mailto:ahmad.helaly.dev@gmail.com?body=Hello%20Ahmad)
+---
 
-### Editors & Frameworks & Tools  & More
+### Development Stack, Frameworks, DB, etc
 
 ![](./img/golang.svg)
-![](./img/postgres.png)
-![](./img/react.png)
-![](./img/spring.png)
-![](./img/graphql.png)
-![](./img/solidity.png)
-![](./img/truffle.png)
-![](./img/hardhat.png)
-![](./img/vscode.svg)
-![](./img/remix.png)
-![](./img/terminal.png)
-![](./img/insomnia.png)
+![](./img/grpc.svg)
+![](./img/gin.svg)
+![](./img/grapql.svg)
+![](./img/postgresql.svg)
+![](./img/mongo.svg)
+![](./img/redis.svg)
 ![](./img/postman.svg)
+![](./img/telegram-app.svg)
 
+### Tools 
+
+![](./img/vscode.svg)
+![](./img/goland.svg)
+![](./img/terminal.svg)
+![](./img/docker.svg)
+![](./img/grafana.svg)
+![](./img/prometheus.svg)
+
+
+### Have worked with before but not currently using
+
+![](./img/solidity.svg)
+![](./img/hardhat.svg)
+![](./img/truffle.svg)
+![](./img/react.svg)
+![](./img/js.svg)
+
+
+
+### Goals 
+- [x] In 2022: Build my own [youtube channel](youtube.com/@escalopa) and fill it with videosMaster and [write articles](escalopa.live)
+- [ ] In 2023: Master `Micro Services`, `gRPC`, `Message Brockers` & Cloud infrastructure (K8s) By building awesome projects
 ---  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escalopa&theme=react&show_icons=true&count_private=true&custom_title=Github%20Status)](https://github.com/anuraghazra/github-readme-stats)
@@ -50,7 +68,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escalopa&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://app.daily.dev/Escalopa"><img src="https://api.daily.dev/devcards/e3884bd526504521bcb020189bba98c0.png?r=5rn" width="200" alt="Ahmad Helaly's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/Escalopa"><img src="https://api.daily.dev/devcards/e3884bd526504521bcb020189bba98c0.png?r=5rn" width="200" alt="Ahmad Helaly's Dev Card"/></a> -->
 
 <!-- <details><summary>Wakatinme Language Chart ⌨️⌨️</summary>  
   <img src="https://wakatime.com/share/@escalopa/20569e0c-18db-4634-9a7e-d588d95690cf.svg" alt="languages"/>
@@ -62,7 +80,6 @@
   
 
 ---
-
 
 [twitter]: https://twitter.com/ahmadehelaly
 [linkedin]: https://www.linkedin.com/in/ahmad-helaly-53b5b9236/
