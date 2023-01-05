@@ -11,7 +11,7 @@
 
 ---  
 
-## [Youtube channel](https://youtube.com/@escalopa) & [Personal BLog](https://escalopa.live)
+## [Youtube channel](https://youtube.com/@escalopa) | [Personal BLog](https://escalopa.live) | [Private Server](http://37.46.128.188/)
 
 ### Me on other social medias:
 
