@@ -2,18 +2,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=escalopa&label=Views&color=blue&style=plastic" />
 
-- 🌱 I’m currently learning `GO`, `gRPC`, `Micro Services`
-- 👯 I’m looking to collaborate on freelancing & startup projects that interests me
-- 🤔 I’m looking for a partner on projects (A frontend dev)
-- 📚 Hobbies: Do read books about (Religion, Finance, Self-development, business), also go to 🏋🏻 
-- 🗣 Talk with me about: backend-dev💻 ,web3🌐, Cryptocurrency🪙, Entrepreneurship🚀, And how you lost your money on trading 😁
-- ⏱️ Free time hobby: I am also an author, write articles about things I learn, or build some cool simple apps
-
+- 👯 I’m looking to collaborate on building projcts that has value to the people.
+ 
 ---  
 
-## [Youtube channel](https://youtube.com/@escalopa) | [Personal Blog](https://escalopa.live) | [Private Server](http://37.46.128.188/) | [Resume](https://github.com/escalopa)
-
-### Me on other social medias:
+## [Youtube](https://youtube.com/@escalopa) | [Blog](https://escalopa.live) | [Server](http://178.250.158.150/) 
 
 [![](./img/telegram.svg)](https://t.me/aehelaly) 
 [![](./img/twitter.svg)](https://twitter.com/escalopaPapi)
@@ -23,36 +16,20 @@
 
 ---
 
-### Development Stack, Frameworks, DB, etc
+### Stack
 
 ![](./img/golang.svg)
 ![](./img/grpc.svg)
-![](./img/gin.svg)
 ![](./img/grapql.svg)
+![](./img/kafka.svg)
+![](./img/rabbitmq.svg)
 ![](./img/postgresql.svg)
-![](./img/mongo.svg)
 ![](./img/redis.svg)
-![](./img/postman.svg)
-![](./img/telegram-app.svg)
-
-![](./img/vscode.svg)
-![](./img/goland.svg)
-![](./img/terminal.svg)
+![](./img/k8s.png)
 ![](./img/docker.svg)
 ![](./img/grafana.svg)
 ![](./img/prometheus.svg)
 
-![](./img/solidity.svg)
-![](./img/hardhat.svg)
-![](./img/truffle.svg)
-![](./img/react.svg)
-![](./img/js.svg)
-
-
-
-### Goals 
-- [x] In 2022: Build my own [youtube channel](youtube.com/@escalopa) and fill it with videosMaster and [write articles](escalopa.live)
-- [ ] In 2023: Master `Micro Services`, `gRPC`, `Message Brockers` & Cloud infrastructure (K8s) By building awesome projects
 ---  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escalopa&theme=react&show_icons=true&count_private=true&custom_title=Github%20Status)](https://github.com/anuraghazra/github-readme-stats)
@@ -74,7 +51,3 @@
   
 
 ---
-
-[twitter]: https://twitter.com/ahmadehelaly
-[linkedin]: https://www.linkedin.com/in/ahmad-helaly-53b5b9236/
-[gmail]: mailto:ahmad.helaly.dev@gmail.com?body=Hello%20Ahmad
