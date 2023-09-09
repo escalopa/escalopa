@@ -10,11 +10,9 @@
 
 [![](./img/telegram.svg)](https://t.me/aehelaly) 
 [![](./img/twitter.svg)](https://twitter.com/escalopaPapi)
-[![](./img/linkedin.svg)](https://www.linkedin.com/in/ahmad-helaly-53b5b9236/)
+[![](./img/linkedin.svg)][linkedin]
 [![](./img/gmail.svg)](mailto:ahmad.helaly.dev@gmail.com?body=Hello%20Ahmad)
 [![](./img/stackoverflow.svg)](https://stackoverflow.com/users/14295533/escapola)
-
----
 
 ### Stack
 
@@ -51,3 +49,5 @@
   
 
 ---
+
+[linkedin]: https://www.linkedin.com/in/escalopa/
