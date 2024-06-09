@@ -35,21 +35,21 @@
 
 
 [![](./img/go.svg)][Go]
-[![](./img/solidity.svg)][Solidity]
-[![](./img/react.svg)][React]
 [![](./img/grpc.svg)][Grpc]
 [![](./img/graphql.svg)][Graphql]
 [![](./img/bash.svg)][Bash]
-[![](./img/hardhat.svg)][Hardhat]
 [![](./img/kafka.svg)][Kafka]
 [![](./img/rabbitmq.svg)][Rabbitmq]
+<!--- [![](./img/solidity.svg)][Solidity] --->
+<!--- [![](./img/react.svg)][React] --->
+<!--- [![](./img/hardhat.svg)][Hardhat] --->
 
 [![](./img/postgresql.svg)][Postgresql]
 [![](./img/cockroachdb.svg)][Cockroachdb]
 [![](./img/redis.svg)][Redis]
 [![](./img/memcached.svg)][Memcached]
-[![](./img/ceph.svg)][Ceph]
-[![](./img/hadoop.svg)][Hadoop]
+<!--- [![](./img/ceph.svg)][Ceph] --->
+<!---  [![](./img/hadoop.svg)][Hadoop] --->
 
 [![](./img/k8s.svg)][K8s]
 [![](./img/docker.svg)][Docker]
