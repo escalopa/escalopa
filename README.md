@@ -10,6 +10,8 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14295533?color=yellow&logo=stackoverflow&label=Reputation)][StackOverFlow]
 [![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fescalopa&logo=leetcode&logoColor=yellow)][LeetCode]
 
+[![wakatime](https://wakatime.com/badge/user/965e81db-2a88-4564-b236-537c4a901130.svg)](https://wakatime.com/@965e81db-2a88-4564-b236-537c4a901130)
+
 --- 
 
 - 👯 I’m looking to collaborate on **Cool Projects**.
