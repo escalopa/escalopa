@@ -25,9 +25,14 @@
 
 
 [![](./img/telegram.svg)][Telegram]⠀
-[![](./img/twitter.svg)][Twitter]⠀
 [![](./img/linkedin.svg)][LinkedIn]⠀
 [![](./img/gmail.svg)][Gmail]
+
+---
+
+## 📚 Portfolio
+
+View my personal portfolio and blog site [HERE][Blog]
 
 ---
 
@@ -69,7 +74,7 @@
 
 ## 📊 <a style="color:Blue">Analytics</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escalopa&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escalopa&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) --->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escalopa&theme=react&show_icons=true&count_private=true&custom_title=Github%20Status)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -111,13 +116,12 @@
 
 <!-- Social --> 
 [YouTube]: https://youtube.com/@escalopa
-[Blog]: https://escalopa.live
-[Server]: http://178.250.158.150/
+[Blog]: https://escalopa.com
 [StackOverFlow]: https://stackoverflow.com/users/14295533/escapola
 [LeetCode]: https://leetcode.com/escalopa/
 
 <!-- Contact --> 
 [LinkedIn]: https://www.linkedin.com/in/escalopa/?locale=en_US
 [Twitter]: https://twitter.com/escalopaPapi
-[Telegram]: https://t.me/aehelaly
+[Telegram]: https://t.me/escalopa
 [Gmail]: mailto:ahmad.helaly.dev@gmail.com?body=Hello%20Ahmad
