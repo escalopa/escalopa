@@ -1,4 +1,4 @@
-# <a style="color:Fuchsia">Hi there 👋 I am Ahmad - aka Escalopa</a>
+# <a style="color:Fuchsia">Hi there 👋 I am Ahmed - aka Escalopa</a>
 
 <img src="https://komarev.com/ghpvc/?username=escalopa&label=Views&color=blue&style=flat" />
 
@@ -124,4 +124,4 @@ View my personal portfolio and blog site [HERE][Blog]
 [LinkedIn]: https://www.linkedin.com/in/escalopa/?locale=en_US
 [Twitter]: https://twitter.com/escalopaPapi
 [Telegram]: https://t.me/escalopa
-[Gmail]: mailto:ahmad.helaly.dev@gmail.com?body=Hello%20Ahmad
+[Gmail]: mailto:ahmed.helaly.dev@gmail.com?body=Hello%20Ahmed
