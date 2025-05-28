@@ -1,8 +1,6 @@
-# <a style="color:Fuchsia">Hi there 👋 I am Ahmed - aka Escalopa</a>
+# Hi there 👋 I am Ahmed - aka Escalopa
 
 <img src="https://komarev.com/ghpvc/?username=escalopa&label=Views&color=blue&style=flat" />
-
-</br>
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTRWpJE0OTZDasrGDgK3Klw?color=red&label=YouTube&logo=youtube&style=flat)][YouTube]
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTRWpJE0OTZDasrGDgK3Klw?color=red&label=Subscribers&logo=youtube&style=flat)][YouTube]
@@ -21,60 +19,57 @@
 
 --- 
 
-## 💬 <a style="color:Cyan">Contact</a>
-
-
-[![](./img/telegram.svg)][Telegram]⠀
-[![](./img/linkedin.svg)][LinkedIn]⠀
-[![](./img/gmail.svg)][Gmail]
-
----
-
 ## 📚 Portfolio
 
 View my personal portfolio and blog site [HERE][Blog]
 
 ---
 
-## 🛠 <a style="color:Coral">Languages and Tools</a>
+## 🛠 Stack
 
+[<img height="32" width="32" src="https://cdn.simpleicons.org/go"/>][go]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/solidity"/>][solidity]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/typescript"/>][typescript]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/javascript"/>][javascript]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/python"/>][python]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/ruby"/>][ruby]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/rust"/>][rust]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash"/>][gnubash]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/git"/>][git]
 
-[![](./img/go.svg)][Go]
-[![](./img/grpc.svg)][Grpc]
-[![](./img/graphql.svg)][Graphql]
-[![](./img/bash.svg)][Bash]
-[![](./img/kafka.svg)][Kafka]
-[![](./img/rabbitmq.svg)][Rabbitmq]
-<!--- [![](./img/solidity.svg)][Solidity] --->
-<!--- [![](./img/react.svg)][React] --->
-<!--- [![](./img/hardhat.svg)][Hardhat] --->
+[<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql"/>][postgresql]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/redis"/>][redis]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/clickhouse"/>][clickhouse]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/scylladb"/>][scylladb]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb"/>][mongodb]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/apachecassandra"/>][apachecassandra]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/neo4j"/>][neo4j]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/cockroachlabs"/>][cockroachlabs]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/ceph"/>][ceph]
 
-[![](./img/postgresql.svg)][Postgresql]
-[![](./img/cockroachdb.svg)][Cockroachdb]
-[![](./img/redis.svg)][Redis]
-[![](./img/memcached.svg)][Memcached]
-<!--- [![](./img/ceph.svg)][Ceph] --->
-<!---  [![](./img/hadoop.svg)][Hadoop] --->
+[<img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes"/>][kubernetes]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/docker"/>][docker]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/etcd"/>][etcd]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/apachekafka"/>][apachekafka]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/rabbitmq"/>][rabbitmq]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/natsdotio"/>][natsdotio]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/vault"/>][vault]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/terraform"/>][terraform]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/nginx"/>][nginx]
 
-[![](./img/k8s.svg)][K8s]
-[![](./img/docker.svg)][Docker]
-[![](./img/grafana.svg)][Grafana]
-[![](./img/prometheus.svg)][Prometheus]
-[![](./img/graylog.svg)][Graylog]
-[![](./img/nginx.svg)][Nginx]
-[![](./img/vault.svg)][Vault]
-
-[![](./img/vscode.svg)][Visual Studio]
-[![](./img/git.svg)][Git]
-[![](./img/github.svg)][Github]
-[![](./img/gitlab.svg)][Gitlab]
-[![](./img/postman.svg)][Postman]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices"/>][amazonwebservices]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud"/>][googlecloud]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud"/>][yandexcloud]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/prometheus"/>][prometheus]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/grafana"/>][grafana]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/graylog"/>][graylog]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/jaeger"/>][jaeger]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/opentelemetry"/>][opentelemetry]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/linux"/>][linux]
 
 ---
 
-## 📊 <a style="color:Blue">Analytics</a>
-
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escalopa&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) --->
+## 📊 Analytics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escalopa&theme=react&show_icons=true&count_private=true&custom_title=Github%20Status)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -83,45 +78,50 @@ View my personal portfolio and blog site [HERE][Blog]
 ---
 
 <!-- Coding -->
-[Go]: http://google.com/search?q=go
-[Solidity]: http://google.com/search?q=solidity
-[React]: http://google.com/search?q=react
-[Grpc]: http://google.com/search?q=grpc
-[Graphql]: http://google.com/search?q=graphql
-[Bash]: http://google.com/search?q=bash
-[Hardhat]: http://google.com/search?q=hardhat
-[Kafka]: http://google.com/search?q=kafka
-[Rabbitmq]: http://google.com/search?q=rabbitmq
 
-[Postgresql]: http://google.com/search?q=postgresql
-[Cockroachdb]: http://google.com/search?q=cockroachdb
-[Redis]: http://google.com/search?q=redis
-[Memcached]: http://google.com/search?q=memcached
-[Ceph]: http://google.com/search?q=ceph
-[Hadoop]: http://google.com/search?q=hadoop
+[go]: https://go.dev/
+[solidity]: https://docs.soliditylang.org/
+[typescript]: https://www.typescriptlang.org/
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[python]: https://www.python.org/
+[ruby]: https://www.ruby-lang.org/
+[rust]: https://www.rust-lang.org/
+[gnubash]: https://www.gnu.org/software/bash/
+[git]: https://git-scm.com/
 
-[K8s]: http://google.com/search?q=k8s
-[Docker]: http://google.com/search?q=docker
-[Grafana]: http://google.com/search?q=grafana
-[Prometheus]: http://google.com/search?q=prometheus
-[Graylog]: http://google.com/search?q=graylog
-[Nginx]: http://google.com/search?q=nginx
-[Vault]: http://google.com/search?q=vault
+[postgresql]: https://www.postgresql.org/
+[redis]: https://redis.io/
+[clickhouse]: https://clickhouse.com/
+[scylladb]: https://www.scylladb.com/
+[mongodb]: https://www.mongodb.com/
+[apachecassandra]: https://cassandra.apache.org/
+[neo4j]: https://neo4j.com/
+[cockroachlabs]: https://www.cockroachlabs.com/
+[ceph]: https://ceph.io/en/
 
-[Git]: http://google.com/search?q=git
-[GitHub]: https://github.com/
-[GitLab]: https://gitlab.com/
-[Visual Studio]: https://code.visualstudio.com/
-[Postman]: http://google.com/search?q=
+[kubernetes]: https://kubernetes.io/
+[docker]: https://www.docker.com/
+[etcd]: https://etcd.io/
+[apachekafka]: https://kafka.apache.org/
+[rabbitmq]: https://www.rabbitmq.com/
+[natsdotio]: https://nats.io/
+[vault]: https://www.vaultproject.io/
+[terraform]: https://www.terraform.io/
+[nginx]: https://nginx.org/
+[amazonwebservices]: https://aws.amazon.com/
+
+[googlecloud]: https://cloud.google.com/
+[yandexcloud]: https://cloud.yandex.com/
+[prometheus]: https://prometheus.io/
+[grafana]: https://grafana.com/
+[graylog]: https://www.graylog.org/
+[jaeger]: https://www.jaegertracing.io/
+[opentelemetry]: https://opentelemetry.io/
+[linux]: https://www.kernel.org/
 
 <!-- Social --> 
+
 [YouTube]: https://youtube.com/@escalopa
 [Blog]: https://escalopa.com
 [StackOverFlow]: https://stackoverflow.com/users/14295533/escapola
 [LeetCode]: https://leetcode.com/escalopa/
-
-<!-- Contact --> 
-[LinkedIn]: https://www.linkedin.com/in/escalopa/?locale=en_US
-[Twitter]: https://twitter.com/escalopaPapi
-[Telegram]: https://t.me/escalopa
-[Gmail]: mailto:ahmed.helaly.dev@gmail.com?body=Hello%20Ahmed
