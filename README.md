@@ -1,27 +1,27 @@
 # Hi there 👋 I am Ahmed - aka Escalopa
 
-<img src="https://komarev.com/ghpvc/?username=escalopa&label=Views&color=blue&style=flat" />
+[<img src="https://komarev.com/ghpvc/?username=escalopa&label=Views&color=blue&style=flat" />][github]
 
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTRWpJE0OTZDasrGDgK3Klw?color=red&label=YouTube&logo=youtube&style=flat)][YouTube]
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTRWpJE0OTZDasrGDgK3Klw?color=red&label=Subscribers&logo=youtube&style=flat)][YouTube]
+[![](https://img.shields.io/youtube/channel/views/UCTRWpJE0OTZDasrGDgK3Klw?color=red&label=YouTube&logo=youtube&style=flat)][youtube]
+[![](https://img.shields.io/youtube/channel/subscribers/UCTRWpJE0OTZDasrGDgK3Klw?color=red&label=Subscribers&logo=youtube&style=flat)][youtube]
 
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14295533?color=yellow&logo=stackoverflow&label=Reputation)][StackOverFlow]
-[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fescalopa&logo=leetcode&logoColor=yellow)][LeetCode]
+[![](https://img.shields.io/stackexchange/stackoverflow/r/14295533?color=yellow&logo=stackoverflow&label=Reputation)][stackoverflow]
+[![](https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fescalopa&logo=leetcode&logoColor=yellow)][leetcode]
 
-[![wakatime](https://wakatime.com/badge/user/965e81db-2a88-4564-b236-537c4a901130.svg)](https://wakatime.com/@965e81db-2a88-4564-b236-537c4a901130)
+[![](https://wakatime.com/badge/user/965e81db-2a88-4564-b236-537c4a901130.svg)][wakatime]
 
 --- 
 
-- 👯 I’m looking to collaborate on **Cool Projects**.
-- 🔭 I’m currently working at **Ozon Tech**.
-- 🌱 I’m currently learning **Distributed Systems**.
-- ⚡ Fun fact: DDD Stands for **Davai Davai Deploy**.
+- 👯 I’m open to collaborating on **exciting and impactful projects**.
+- 🔭 Currently contributing my skills at **Yandex**.
+- 🌱 Continuously expanding my knowledge in **Distributed Systems**.
 
 --- 
 
 ## 📚 Portfolio
 
-View my personal portfolio and blog site [HERE][Blog]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/blogger"/>][blog]
+[<img height="32" width="32" src="https://cdn.simpleicons.org/telegram"/>][blogtg]
 
 ---
 
@@ -69,7 +69,22 @@ View my personal portfolio and blog site [HERE][Blog]
 
 ---
 
-## 📊 Analytics
+## 📊 Metrics
+
+**This week I spent time on:**
+
+<!--START_SECTION:waka-->
+
+```txt
+Go               3 hrs 19 mins   ███████████▓░░░░░░░░░░░░░   46.50 %
+Bash             1 hr 30 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+HTML             46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Markdown         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Shell Script     27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+```
+
+<!--END_SECTION:waka-->
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escalopa&theme=react&show_icons=true&count_private=true&custom_title=Github%20Status)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -121,7 +136,10 @@ View my personal portfolio and blog site [HERE][Blog]
 
 <!-- Social --> 
 
-[YouTube]: https://youtube.com/@escalopa
-[Blog]: https://escalopa.com
-[StackOverFlow]: https://stackoverflow.com/users/14295533/escapola
-[LeetCode]: https://leetcode.com/escalopa/
+[github]: https://github.com/escalopa
+[youtube]: https://youtube.com/@escalopa
+[blog]: https://escalopa.com
+[blogtg]: https://t.me/escalopa_blog
+[stackoverflow]: https://stackoverflow.com/users/14295533/escapola
+[leetcode]: https://leetcode.com/escalopa/
+[wakatime]: https://wakatime.com/@escalopa
