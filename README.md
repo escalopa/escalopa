@@ -76,9 +76,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               3 hrs 30 mins   ███████████░░░░░░░░░░░░░░   44.34 %
-Markdown         2 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.26 %
-Terraform        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Go               11 hrs 57 mins  █████████████████░░░░░░░░   68.30 %
+Markdown         2 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+Terraform        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
