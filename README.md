@@ -76,9 +76,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               10 hrs 48 mins  █████████████████████░░░░   84.63 %
-Markdown         1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-TypeScript       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Go               4 hrs 46 mins   ███████████████████▒░░░░░   76.76 %
+Markdown         1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
+TypeScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
