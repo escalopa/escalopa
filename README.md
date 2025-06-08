@@ -76,9 +76,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               4 hrs 46 mins   ███████████████████▒░░░░░   76.76 %
-Markdown         1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
-TypeScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Go               2 hrs 27 mins   █████████████████░░░░░░░░   68.23 %
+Markdown         1 hr 7 mins     ████████░░░░░░░░░░░░░░░░░   31.47 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
