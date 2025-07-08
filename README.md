@@ -76,7 +76,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go     2 mins          ████████████████████████▓   99.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
