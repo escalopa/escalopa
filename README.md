@@ -76,7 +76,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go             40 mins         ██████████████▒░░░░░░░░░░   57.15 %
+Terraform      26 mins         █████████▒░░░░░░░░░░░░░░░   37.48 %
+Shell Script   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Bash           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+HCL            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
