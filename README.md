@@ -27,6 +27,8 @@
 
 ## 🛠 Stack
 
+**Languages & Tools**
+
 [<img height="32" width="32" src="https://cdn.simpleicons.org/go"/>][go]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/solidity"/>][solidity]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/typescript"/>][typescript]
@@ -36,6 +38,8 @@
 [<img height="32" width="32" src="https://cdn.simpleicons.org/rust"/>][rust]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash"/>][gnubash]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/git"/>][git]
+
+**Databases & Storage**
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql"/>][postgresql]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/redis"/>][redis]
@@ -47,6 +51,8 @@
 [<img height="32" width="32" src="https://cdn.simpleicons.org/cockroachlabs"/>][cockroachlabs]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/ceph"/>][ceph]
 
+**Infrastructure & Messaging**
+
 [<img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes"/>][kubernetes]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/docker"/>][docker]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/etcd"/>][etcd]
@@ -56,6 +62,8 @@
 [<img height="32" width="32" src="https://cdn.simpleicons.org/vault"/>][vault]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/terraform"/>][terraform]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/nginx"/>][nginx]
+
+**Cloud & Observability**
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices"/>][amazonwebservices]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud"/>][googlecloud]
@@ -82,9 +90,9 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escalopa&theme=react&show_icons=true&count_private=true&custom_title=Github%20Status)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahmed's GitHub stats](https://github-stats-extended.vercel.app/api?username=escalopa&theme=react&show_icons=true&count_private=true&custom_title=Github%20Status)](https://github.com/stats-organization/github-stats-extended)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=escalopa&layout=compact&theme=react&custom_title=Wakatime%20All%20Time%20Stats&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahmed's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=escalopa&layout=compact&theme=react&custom_title=Wakatime%20All%20Time%20Stats&langs_count=8)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
