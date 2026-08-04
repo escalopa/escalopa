@@ -15,3 +15,16 @@ jobs:
           LANG_COUNT: 5
           COMMIT_MESSAGE: "chore: update stats"
           IGNORED_LANGUAGES: HTML CSS JSON YAML TOML TXT
+
+  # GitHub disables scheduled workflows after 60 days without user activity;
+  # re-enabling the workflow via API resets that timer.
+  keepalive:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - run: |
+          gh api -X PUT repos/${{ github.repository }}/actions/workflows/stats.yaml/enable
+          gh api -X PUT repos/${{ github.repository }}/actions/workflows/snake.yaml/enable
+        env:
+          GH_TOKEN: ${{ github.token }}
