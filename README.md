@@ -2,8 +2,8 @@
 
 [<img src="https://komarev.com/ghpvc/?username=escalopa&label=Views&color=blue&style=flat" />][github]
 
-[![](https://img.shields.io/youtube/channel/views/UCTRWpJE0OTZDasrGDgK3Klw?color=red&label=YouTube&logo=youtube&style=flat)][youtube]
-[![](https://img.shields.io/youtube/channel/subscribers/UCTRWpJE0OTZDasrGDgK3Klw?color=red&label=Subscribers&logo=youtube&style=flat)][youtube]
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.socialcounts.org%2Fyoutube-live-subscriber-count%2FUCTRWpJE0OTZDasrGDgK3Klw&query=counters.api.viewCount&color=red&label=YouTube&logo=youtube&style=flat)][youtube]
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.socialcounts.org%2Fyoutube-live-subscriber-count%2FUCTRWpJE0OTZDasrGDgK3Klw&query=counters.api.subscriberCount&color=red&label=Subscribers&logo=youtube&style=flat)][youtube]
 
 [![](https://img.shields.io/stackexchange/stackoverflow/r/14295533?color=yellow&logo=stackoverflow&label=Reputation)][stackoverflow]
 [![](https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fescalopa&logo=leetcode&logoColor=yellow)][leetcode]
@@ -65,7 +65,7 @@
 
 **Cloud & Observability**
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices"/>][amazonwebservices]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>][amazonwebservices]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud"/>][googlecloud]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud"/>][yandexcloud]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/prometheus"/>][prometheus]
@@ -93,6 +93,13 @@ No activity tracked
 [![Ahmed's GitHub stats](https://github-stats-extended.vercel.app/api?username=escalopa&theme=react&show_icons=true&count_private=true&custom_title=Github%20Status)](https://github.com/stats-organization/github-stats-extended)
 
 [![Ahmed's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=escalopa&layout=compact&theme=react&custom_title=Wakatime%20All%20Time%20Stats&langs_count=8)](https://github.com/stats-organization/github-stats-extended)
+
+[![Ahmed's streak stats](https://streak-stats.demolab.com/?user=escalopa&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/escalopa/escalopa/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/escalopa/escalopa/output/github-snake.svg" />
+</picture>
 
 ---
 
