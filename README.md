@@ -8,7 +8,9 @@
 [![](https://img.shields.io/stackexchange/stackoverflow/r/14295533?color=yellow&logo=stackoverflow&label=Reputation)][stackoverflow]
 [![](https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fescalopa&logo=leetcode&logoColor=yellow)][leetcode]
 
+<!-- WakaTime tracking is currently inactive; uncomment when the editor plugin is set up again.
 [![](https://wakatime.com/badge/user/965e81db-2a88-4564-b236-537c4a901130.svg)][wakatime]
+-->
 
 --- 
 
@@ -79,20 +81,11 @@
 
 ## 📊 Metrics
 
-**This week I spent time on:**
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
 [![Ahmed's GitHub stats](https://github-stats-extended.vercel.app/api?username=escalopa&theme=react&show_icons=true&count_private=true&custom_title=Github%20Status)](https://github.com/stats-organization/github-stats-extended)
 
+<!-- WakaTime tracking is currently inactive; uncomment when the editor plugin is set up again.
 [![Ahmed's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=escalopa&layout=compact&theme=react&custom_title=Wakatime%20All%20Time%20Stats&langs_count=8)](https://github.com/stats-organization/github-stats-extended)
+-->
 
 [![Ahmed's streak stats](https://streak-stats.demolab.com/?user=escalopa&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
