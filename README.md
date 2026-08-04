@@ -79,19 +79,7 @@
 
 ---
 
-<!-- WakaTime tracking is currently inactive. To restore this section, uncomment it and
-wrap the START/END marker names back into their own HTML comments for the waka-readme action.
-
-**This week I spent time on:**
-
-START_SECTION:waka
-
-```txt
-No activity tracked
-```
-
-END_SECTION:waka
--->
+## 📊 Metrics
 
 [![Ahmed's GitHub stats](https://github-stats-extended.vercel.app/api?username=escalopa&theme=react&show_icons=true&count_private=true&custom_title=Github%20Status)](https://github.com/stats-organization/github-stats-extended)
 
